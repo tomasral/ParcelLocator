@@ -1,0 +1,15 @@
+[general]
+name=Parcel Locator
+qgisMinimumVersion=3.0
+qgisMaximumVersion=3.99
+description=Un plugin para buscar referencias catastrales y centrar el mapa en su ubicación
+version=1.3
+author=@tomasral.es @ www.geonalon.com
+email=tramon@geonalon.com or me@tomasral.es
+about=Este plugin permite introducir una referencia catastral y mover el mapa de QGIS a la ubicación correspondiente. Si desconoces la referencia catastral, puedes obtenerla usando el plugin, introduciendo provincia, municipio, polígono y parcela. Es necesario establecer correctamente el SRS. 
+category=Web
+tracker=
+repository=https://github.com/tomasral/ParcelLocator
+icon=icon.png
+experimental=False
+deprecated=False
